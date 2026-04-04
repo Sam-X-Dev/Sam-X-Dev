@@ -54,7 +54,7 @@
 
 🔗 Explore my portfolio website to see my projects, skills, and development journey.
 
-👉 [https://Sam-X-Dev.github.io/portfolio-website](https://my-portfolio-website-plum-nu.vercel.app/)
+👉 https://my-portfolio-website-plum-nu.vercel.app/
 
 ---
 
