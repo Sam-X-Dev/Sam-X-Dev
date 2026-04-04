@@ -68,15 +68,18 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sam-X-Dev&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170">
+[<img src="https://github-readme-stats.vercel.app/api?username=Sam-X-Dev&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170">
+](https://github-readme-stats.vercel.app/api?username=Sam-X-Dev&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<img src="https://streak-stats.demolab.com?user=Sam-X-Dev&theme=tokyonight&cache_seconds=86400" height="170">
+[<img src="https://streak-stats.demolab.com?user=Sam-X-Dev&theme=tokyonight&cache_seconds=86400" height="170">
+](https://streak-stats.demolab.com?user=Sam-X-Dev&theme=tokyonight&cache_seconds=86400)
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-X-Dev&layout=compact&theme=tokyonight&cache_seconds=86400">
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-X-Dev&layout=compact&theme=tokyonight&cache_seconds=86400">
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-X-Dev&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 </p>
 
