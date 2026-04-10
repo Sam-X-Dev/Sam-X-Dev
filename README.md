@@ -50,6 +50,23 @@
 
 ---
 
+## 📊 Coding Profiles
+
+
+### 🔵 Codeforces
+
+<p align="center">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Sam.X.Dev" width="480"/>
+  <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Sam.X.Dev" width="480"/>
+</p>
+
+---
+
+### 🔶 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/samarth-swami?ext=heatmap)
+
+---
+
 ## 🌐 Portfolio
 
 🔗 Explore my portfolio website to see my projects, skills, and development journey.
