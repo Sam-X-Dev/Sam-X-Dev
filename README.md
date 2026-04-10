@@ -64,21 +64,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sam-X-Dev&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://streak-stats.demolab.com?user=Sam-X-Dev&theme=tokyonight" height="170">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-X-Dev&layout=compact&theme=tokyonight">
-
-</p>
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam-X-Dev&theme=react-dark&bg_color=0d1117&color=00ffff&line=9b5de5&point=ffffff)
 
 ---
 
