@@ -63,8 +63,9 @@
 ---
 
 ### 🔶 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/samarth-swami?ext=heatmap)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/samarth-swami?ext=heatmap&cache=false" />
+</p>
 ---
 
 ## 🌐 Portfolio
