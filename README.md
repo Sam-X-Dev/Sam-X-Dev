@@ -2,30 +2,22 @@
 <h3 align="center">Aspiring Full Stack Developer | Web Developer | Java | C++</h3>
 
 ---
-
 ## 🚀 About Me
 
-🌱 Contributing to **CircuitVerse (GSoC 2026)** | Building FSM Visualizer | HTML5 Canvas + JavaScript
+🎓 Second-Year B.Tech Computer Science (AI & ML) Student at **PW Institute of Innovation**
 
-💻 Interested in **AI & System Design**
+🌐 Interested in **Full-Stack Development, AI, and System Design**
 
-📚 Learning **Data Structures & Algorithms in C++**
+📜 **JavaScript Intermediate Certified**
 
-🛠️ I enjoy building **web applications and solving programming problems**
+🧠 Solved **250+ DSA problems** across LeetCode, Codeforces, HackerRank, and GeeksforGeeks
 
-## 🎯 Goals for 2026
+🚀 Building responsive and scalable web applications using **HTML, CSS, Tailwind CSS, JavaScript, Node.js, and MongoDB**
 
-🚀 Become a strong Full Stack Developer
+📚 Currently learning **React**, **Backend Development**, and advancing my **Data Structures & Algorithms (C++)** skills
 
-📚 Master Data Structures & Algorithms
+🎯 Focused on writing clean code, building real-world projects, and continuously improving as a developer
 
-🌐 Contribute to CircuitVerse open source
-
-🎯 Applying for GSoC 2026 — CircuitVerse FSM to Circuit Synthesizer
-
-💡 Learn Rails and Canvas API
-
-🏆 Build impactful projects that solve real problems
 ---
 
 ## 💻 Tech Stack
